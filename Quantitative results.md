@@ -1,1 +1,1 @@
-![GitHub Logo](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/1.jpg "GitHub Octocat Logo")
+![Descriptive statistical results of different categories](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/1.jpg "Descriptive statistical results of different categories")
