@@ -19,8 +19,7 @@ Below are some key findings that we will consider integrating into the paper:
 
 ### Detailed Insights:
 - User attitudes towards applications' audit results significantly impact their attitudes, with both positive and negative outcomes (subcategories 1.3, 1.4, and 1.5) standing out from discussions without explicit audit results (subcategories 1.1 and 1.2).
-- Notably, successful audit outcomes are associated with positive attitudes, with subcategory 1.4 showing significantly higher average sentiment scores than others.
-- Conversely, failed audits are linked to negative attitudes, as evidenced by the lower average scores in subcategories 1.3 and 1.5.
+- Notably, successful audit outcomes are associated with positive attitudes, with subcategory 1.4 showing significantly higher average sentiment scores than others. Conversely, failed audits are linked to negative attitudes, as evidenced by the lower average scores in subcategories 1.3 and 1.5.
 
 - Regarding attitudes towards auditing itself, there is significant skepticism about its effectiveness, as discussions on the impact of audits (subcategory 2.3) score significantly lower in sentiment than other topics.
 
