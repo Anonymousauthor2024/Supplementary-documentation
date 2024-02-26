@@ -33,7 +33,7 @@ Below are some key findings that we will consider for integrating more engaging 
 - **Pattern of Sentiment Differences**:
    - Certain subcategories, specifically 1.3, 1.5, 2.2, 2.3, 3.1, and 3.2 consistently show lower sentiment scores compared to others.
 
-![Descriptive statistical results of different categories](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/2.png "Descriptive statistical results of different categories")
+<img src="https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/2.png" alt="Descriptive statistical results of different categories" title="Descriptive statistical results of different categories" width="600"/>
 
 # Web3 Discussion Sentiment Correlations
 This table presents the Pearson correlation coefficients examining the relationships between user sentiment and other interaction metrics within specific Web3 auditing subcategories. The correlations, significance levels, and number of observations for each subcategory are displayed, allowing for an analysis of how user sentiment correlates with the frequency of comments, author activity, and upvotes.
@@ -53,4 +53,4 @@ Below are some key findings that we will consider for integrating more engaging 
 
 Correlations are significant at the **0.01 level (indicated with double asterisks) and at the *0.05 level (indicated with a single asterisk).
 
-![Descriptive statistical results of different categories](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/3.png "Descriptive statistical results of different categories")
+<img src="https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/3.png" alt="Descriptive statistical results of different categories" title="Descriptive statistical results of different categories" width="600"/>
