@@ -1,4 +1,4 @@
-# Web3 Auditing Discussion Overview According to Categorization
+## Web3 Auditing Discussion Overview According to Categorization
 The data provides metrics on post counts, comments, user involvement, and sentiment scores, allowing us to analyze the prominence and user engagement with various Web3 auditing topics. 
 
 Below are some key findings that we will consider integrating into the paper:
@@ -9,7 +9,7 @@ Below are some key findings that we will consider integrating into the paper:
 
 ![Descriptive statistical results of different categories](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/table1.png "Descriptive statistical results of different categories")
 
-# Web3 Auditing Sentiment ANOVA Results
+## Web3 Auditing Sentiment ANOVA Results
 The ANOVA table details the variance in sentiment across different Web3 auditing discussion subcategories. It shows between-group and within-group variations, enabling the assessment of how sentiment varies within individual subcategories and the overall groupings, with LSD post-hoc tests providing further detail on pairwise comparisons.
 
 Below are some key findings that we will consider integrating into the paper:
