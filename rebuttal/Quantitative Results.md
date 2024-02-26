@@ -2,10 +2,12 @@
 The data provides metrics on post counts, comments, user involvement, and sentiment scores, allowing us to analyze the prominence and user engagement with various Web3 auditing topics. 
 
 Below are some key findings that we will consider integrating into the paper:
-- **1.3: Halted Audits**: Demonstrates the highest user engagement, as indicated by the highest number of comments.
-- **1.4: Successful Audits**: Shows strong community interest and approval, leading in post count, average upvote count, and average upvote ratio, pointing to a positive reception of successful audits.
-- **1.5: Failed Audits**: Attracts a lot of attention and discussion, evidenced by the highest average comment count and downvote count, signaling a critical stance or controversy from the community.
-- **3.1: Security Practices of Audit Firms**: Engages fewer discussions, shown by the lowest comment count, which may indicate a general consensus or lack of debate around the security practices of audit firms.
+- The publication of audit results for applications, regardless of the outcome, tends to increase user engagement, as evidenced by higher numbers of comments, posts, upvotes, and average comments in categories such as halted audits (subcategory 1.3), successful audits (subcategory 1.4), and failed audits (subcategory 1.5), compared to ongoing (subcategory 1.2) and upcoming audits (subcategory 1.1).
+- Notably, unsuccessful audits prompt a more critical stance or controversy, with halted (subcategory 1.3) and failed audits (subcategory 1.5) attracting both high upvotes and downvotes.
+
+- Direct discussions on auditing reveal a community disinterest or response to the auditing mechanism, as discussions on how audits are conducted (subcategory 2.1) outnumber other subcategories but have significantly lower average replies.
+
+- Regarding Web3 security discussions related to audit firms, there may appear to be a general consensus or lack of debate around the security practices of audit firms, with discussions on the security practices of audit firms (subcategory 3.1) engaging fewer discussions, indicated by fewer average replies and upvotes.
 
 ![Descriptive statistical results of different categories](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/table1.png "Descriptive statistical results of different categories")
 
