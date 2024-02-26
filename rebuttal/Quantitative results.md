@@ -1,6 +1,7 @@
 # Web3 Auditing Discussion Overview According to Categorization
 The data provides metrics on post counts, comments, user involvement, and sentiment scores, allowing us to analyze the prominence and user engagement with various Web3 auditing topics. 
-Below are some key findings that we will consider for integrating more engaging content into our paper:
+
+Below are some key findings that we will consider integrating into the paper:
 - **1.1 Upcoming Audits**: Anticipation within the community is indicated by moderate engagement, a high comment percentage, and a positive sentiment score.
 - **1.2 Ongoing Audits**: Steady interest in ongoing audits is suggested by lower activity levels paired with positive sentiment.
 - **1.3 Halted Audits**: Serious concerns or controversy are highlighted by a low number of posts coupled with high comment activity and the lowest sentiment score.
@@ -17,7 +18,8 @@ Below are some key findings that we will consider for integrating more engaging 
 
 # Web3 Auditing Sentiment ANOVA Results
 The ANOVA table details the variance in sentiment across different Web3 auditing discussion subcategories. It shows between-group and within-group variations, enabling the assessment of how sentiment varies within individual subcategories and the overall groupings, with LSD post-hoc tests providing further detail on pairwise comparisons.
-Below are some key findings that we will consider for integrating more engaging content into our paper:
+
+Below are some key findings that we will consider integrating into the paper:
 - **Overall ANOVA Result**: Significant differences in sentiment scores across subcategories (p < 0.001), indicating sentiment varies by subcategory.
 
 - **Significant Sentiment Comparisons**:
@@ -37,7 +39,8 @@ Below are some key findings that we will consider for integrating more engaging 
 
 # Web3 Discussion Sentiment Correlations
 This table presents the Pearson correlation coefficients examining the relationships between user sentiment and other interaction metrics within specific Web3 auditing subcategories. The correlations, significance levels, and number of observations for each subcategory are displayed, allowing for an analysis of how user sentiment correlates with the frequency of comments, author activity, and upvotes.
-Below are some key findings that we will consider for integrating more engaging content into our paper:
+
+Below are some key findings that we will consider integrating into the paper:
 - **Subcategory 1.1**: Positive correlation between sentiment and upvotes (r = .074, *p* < .05).
 - **Subcategory 1.3**: 
   - Negative correlation between sentiment and comments number (r = -.283, **p** < .01).
