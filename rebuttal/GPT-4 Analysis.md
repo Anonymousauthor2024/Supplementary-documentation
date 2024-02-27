@@ -6,7 +6,7 @@ In the qualitative analysis phase, we utilized an inductive methodology[1], allo
 
 - **Criteria Refinement**: The team engaged in iterative refinement sessions, addressing discrepancies and fine-tuning the classification criteria through collaborative review.
 
-- **Operationalization of Criteria with GPT-4**: We transformed the evolving classification criteria into GPT-4 prompts, facilitating the categorization of posts from the broader dataset.
+- **Operationalization of Criteria with GPT-4**: We transformed the evolving classification criteria into GPT-4 prompts, facilitating categorizing posts from the broader dataset.
 
 - **Prompt Refinement**: Multiple iterations of prompt refinement were conducted, based on GPT-4’s performance with a curated example dataset, to ensure the prompts accurately reflected the emergent classification criteria.
 
@@ -26,6 +26,6 @@ The table below presents the classification criteria:
 |                                                           | 2\.2: Audit Firms                           | Discussions on organizations or individuals conducting audits\. | What Is \[Audit Firm\]?                                                                               |
 |                                                           | 2\.3: Impact of Audits                      | Discussions on the effectiveness and importance of audits\.     | So Your Project is Audited\.\.\. Cool, Cool, Cool                                                     |
 | 3: Discussion of Web3 Security \(Related to Audit Firms\) | 3\.1: Security Practices of Audit Firms     | Discussions on security practices in projects\.                 | Debunks Rumours of 532M USD Smart Contract Hack – crypto\.news                                        |
-|                                                           | 3\.2: Security Knowledge of Audit Companies | Discussions on security knowledge shared by companies\.         | Analysis of the 600 USD million theft                                                                 |
+|                                                           | 3\.2: Security Knowledge of Audit Firms | Discussions on security knowledge shared by companies\.         | Analysis of the 600 USD million theft                                                                 |
 
 [1] Thomas, D. R. (2003). A general inductive approach for qualitative data analysis.
