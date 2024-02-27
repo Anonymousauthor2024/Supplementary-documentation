@@ -14,6 +14,7 @@ Below are some key findings that we will consider integrating into the paper:
 **Overall**: During the discussions on diverse topics, participants demonstrated notable disparities in their levels of engagement and attitudes. This was quantitatively substantiated by the results of the Analysis of Variance (ANOVA) test across multiple indicators, including sentiment scores, number of comments, upvotes, and downvotes, where the p-values were all less than 0.001.
 
   **Detailed Insights**:
+
 Regarding the discussion of application audit dynamics:
    - The publication of audit results for applications, regardless of the outcome, tends to increase user engagement, as evidenced by significantly higher numbers of comments, posts, upvotes, and average comments in categories such as halted audits (subcategory 1.3), successful audits (subcategory 1.4), and failed audits (subcategory 1.5), compared to ongoing (subcategory 1.2) and upcoming audits (subcategory 1.1).
    - Notably, unsuccessful audit information, including halted and failed audits, triggers more pronounced community conflicts and debates, marked by both high upvote and downvote counts while negative sentiment scores. Successful audit outcomes, conversely,  are associated with positive attitudes, with subcategory 1.4 showing significantly higher average sentiment scores than others. 
