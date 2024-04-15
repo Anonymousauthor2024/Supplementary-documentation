@@ -1,7 +1,7 @@
 ### Recruitment Strategy
 Our recruitment efforts were spread across Twitter, Discord, and Telegram, supplemented by the personal networks within our research team.
 Following is the sample recruitment:
-<p style="font-size: smaller;"><i>"We are a team of researchers from [hidden for review], focusing on the exploration of user perceptions towards Web3 auditing. We aim to interview Web3 users to delve into their auditing experiences and perspectives. Participation is anonymous, with interviews conducted one-on-one through Zoom or similar platforms, and audio recorded for research purposes only. The research team will exclusively access these recordings. Each interview is estimated to last around 45 minutes, with a $20 compensation for your time and contribution. Interested participants are encouraged to contact XX (Researcher's email)."</i></p>
+<p style="font-size: smaller;"><i>"We are a team of researchers from [hidden for review], focusing on the exploration of user perceptions towards Web3 auditing. We aim to interview Web3 users to delve into their auditing experiences and perspectives. Participation is anonymous, with interviews conducted one-on-one through Zoom or similar platforms and audio recorded for research purposes only. The research team will exclusively access these recordings. Each interview is estimated to last around 45 minutes, with a $20 compensation for your time and contribution. Interested participants are encouraged to contact XX (Researcher's email)."</i></p>
 
 ### Participant Eligibility
 Eligibility criteria required participants to: 
