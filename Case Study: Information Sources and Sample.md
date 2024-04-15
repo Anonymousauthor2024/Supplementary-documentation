@@ -14,8 +14,8 @@
             <tr>
                 <td>Official Websites of Audit Firms</td>
                 <td>
-                    <img src="picture/firm1.png" style="height:50%; width:auto;">
-                    <img src="picture/firm2.png" style="height:50%; width:auto;">
+                    <img src="https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/firm1.png" alt="Audit Firm Website 1" style="width:30%;">
+                    <img src="https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/firm2.png" alt="Audit Firm Website 2" style="width:30%;">
                 </td>
                 <td>
                     <a href="https://www.slowmist.com/">https://www.slowmist.com/</a><br>
@@ -25,8 +25,8 @@
             <tr>
                 <td>Audit-Related Webpages from Web3 Applications</td>
                 <td>
-                    <img src="picture/audit1.png" style="height:50%; width:auto;">
-                    <img src="picture/audit3.png" style="height:50%; width:auto;">
+                    <img src="https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/audit1.png" alt="Web3 Audit Page 1" style="width:30%;">
+                    <img src="https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/audit3.png" alt="Web3 Audit Page 2" style="width:30%;">
                 </td>
                 <td>
                     <a href="https://github.com/lidofinance/audits">https://github.com/lidofinance/audits</a><br>
@@ -36,8 +36,8 @@
             <tr>
                 <td>Social Media Interactions</td>
                 <td>
-                    <img src="picture/certik discord.png" style="height:50%; width:auto;">
-                    <img src="picture/certik Twitter.png" style="height:50%; width:auto;">
+                    <img src="https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/certik%20discord.png" alt="Certik Discord" style="width:30%;">
+                    <img src="https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/certik%20Twitter.png" alt="Certik Twitter" style="width:30%;">
                 </td>
                 <td>
                     <a href="https://twitter.com/CertiK">https://twitter.com/CertiK</a><br>
