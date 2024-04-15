@@ -13,6 +13,8 @@ In the qualitative analysis phase, we utilized an inductive methodology[1], allo
 - **Systematic Categorization**:  Employing the refined prompts, we systematically categorized all posts, showcasing the adaptability and effectiveness of our inductive approach.
 
 The table below presents the classification criteria:
+<a name="classification_sample"></a>
+
 
 | **Category**                                              | **Subcategory**                             | **Description**                                                 | **Sample**                                                                                            |
 |-----------------------------------------------------------|---------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
