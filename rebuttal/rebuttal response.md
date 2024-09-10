@@ -1,64 +1,75 @@
-**Clarification of the Relationship Between Methods and Findings(Reviewer775A)**
-1. **Case Study**:  
-   The case study includes two key steps:
+**Explanation for Demographic (Reviewer B & D)**:
+Our sample size aligns with qualitative research standards [[1]](https://ieeexplore.ieee.org/document/10335652) [[2]](https://ieeexplore.ieee.org/document/10179339). Our community discussions from Reddit, involving 2000+ users, also expand the generalizability of our findings.
+
+As for our experienced sample, 30% of participants have less than 2 years of experience. While these users tend to find audit information harder to understand, trust audits less, and have a more limited impact compared to experienced users, the overall trends are similar. These findings are reflected in our paper.
+
+However, we acknowledge the potential limitations in our demographic due to sample size and experience background, and we will add this to the limitations section. The themes and patterns identified in this research provide preliminary insights and a foundation for future studies.
+
+
+**Removal of Design Implication for Web2 (ReviewerA&C)**
+We acknowledge the significant differences between Web2 and the Web3 ecosystem. Following the reviewer's suggestion, we will remove the design implications related to Web2. This removal is reasonable and does not affect the completeness or contributions of our paper, as our work serves as a cornerstone for future Web3 security initiatives and a model for usable security.
+
+
+
+
+
+**Clarification of the Relationship Between Methods and Findings ((ReviewerA))**:
+We have revised the methods section to clearly explain how our approach addresses the RQs and derives our findings. To provide a clearer understanding of the relationships between methods, findings, and RQs, we have included both a figure (showing the relationship between methods and RQs) and a table (summarizing the connections between methods, findings, and RQs). We have also provided a detailed explanation in the [online document](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/Research%20Method%2C%20Research%20Questions%2C%20and%20Findings%20Relationship.md).
+
+Specifically:
+1. **Case Study** includes two key steps:  
    - **Observing audit information of audited projects**.
    - **Reviewing audit firms' homepage information disclosures**.
+     - This provides **empirical validation** for our interview findings.
 
-   These two steps together contribute to forming the **interaction framework** for Web3 auditing within the Web3 ecosystem. This framework serves as a foundation for the subsequent **interview design**. The second step, the **review of audit firms' homepage disclosures**, provides **empirical validation** for our interview findings.
+   Together, these steps form the **interaction framework** for Web3 auditing, which serves as the foundation for the **interview design**.
 
-2. **Interviews**:  
-   **Interviews** serve as the **primary research method**, uncovering the majority of the findings.
+2. **Interviews** serve as the **primary research method**, uncovering most of the findings.
 
-3. **Reddit**:  
-   As the platform for **online community analysis**, **Reddit** supplements and cross-validates the interview findings.  
-   - The **qualitative analysis** results are primarily based on **thematic categorization**, which cross-validates the interview findings.
-   - The **quantitative analysis** results were adjusted, mainly using **sentiment analysis**, to capture the online community's attitudes.
+3. **Reddit Analysis** supplements and cross-validates the interview findings:  
+   - **Qualitative analysis** through **thematic categorization** supports the interview findings.
+   - **Quantitative analysis**, using **sentiment analysis**, captures online community attitudes.
 
 
-**Details about Case Study (Reviewer775A)**
+**Details about Case Study (ReviewerA)**
 We provided details about the ***case study***, including examples of information sources about audit firms. You can find them at:
 - [Information source examples](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/Case%20Study%3A%20Information%20Sources%20and%20Sample.md)
 - [List of 21 audit firm websites](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/Case%20Study%3A%20List%20of%2021%20audit%20firm%20websites.csv)
 - [Review protocol and results](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/Case%20Study:%20Web3%20Auditing%20Website%20Review.md)
 
 
-**Validation of GPT-4y (Reviewer775A)**
+**Validation of GPT-4 (ReviewerA)**  
+We greatly appreciate your suggestions for further validation of the GPT-4 analysis. In response, we have made the following updates:
 
-We provide details about Classification Tasks Using GPT-4 in  [Supplementary-documentation](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/Reddit%20Study%3A%20Classification%20Tasks%20Using%20GPT-4.md).
-The process of how we develop prompts and what prompts we use are provided.
+1. We have provided detailed information about the classification tasks using GPT-4 in the [Supplementary-documentation](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/Reddit%20Study%3A%20Classification%20Tasks%20Using%20GPT-4.md). This includes the development process and the specific prompts used.
 
-我们当时都计算了准确率，都达到了80%以上。基于reviewerA的意见我们又计算了recall率均在80%以上。
+2. We acknowledge the previous limitation of not considering the recall rate. This will be addressed in the updated limitations section. Also, we re-evaluate the recall rates, which were consistently above 80%.
 
-关于情感分析的GPT-4验证的ground truth建立我们也update details. [Sentiment](https://github.com/Anonymousauthor2024/Supplementary-documentation/tree/main)
-
-**Finding 一致性表达(Reviewer775A)** 已经修改成为一致性用绝对数值报告所有意见的访谈者数量。
+3. For **Sentiment Analysis Validation**, we have revised the section regarding the ground truth establishment for sentiment analysis using GPT-4 in the updated version. A detailed explanation is provided in this [document](https://github.com/Anonymousauthor2024/Supplementary-documentation/tree/main).
 
 
-**design implication improvement for Web2(Reviewer775A&C)** 认为web2的建议没有价值，考虑到web2的环境是中心化的，用户信心是充足的
-- A认为应该删除，
 
-- C认为不考虑 Web2 和 Web3 环境之间的实际和背景差异去公开审计报告过于乐观，Web2 中的审计公司通常在保密协议下运营，以防止公开披露详细的客户信息
+**Consistency in Reporting Findings ((ReviewerA))**:We have revised the findings to report the number of interview participants using absolute values for consistency.
 
-
-**Explanation for Demographic(Reviewer775B&D)**
-Our sample size aligns with the standards for qualitative research[1](https://ieeexplore.ieee.org/document/10335652)[2](https://ieeexplore.ieee.org/document/10179339/).
-我们的community discussion from reddit也同样扩展了我们的finding generalization，as 涉及到600多个user。
-
-关于群体专业性的质疑，这是因为auditing作为一种比较安全技术性的报告，对于user而言有兴趣去阅读就有一定的专业性门槛要求，因此我们的受访者中专业知识程度较高。
 
 
 **rq和related work(reviewerA)**
 。。。
 
 
+**Rebuttal to Solution Complexity (ReviewerB)**:
+We acknowledge that the widespread adoption of our design implications may take time. However, we are collaborating with leading auditing firms and providing practical recommendations. Some of our suggestions have already been adopted, such as CertiK's implementation of data change logs and easily accessible explanations for security metrics calculations (https://skynet.certik.com/).
 
-**同隐私政策研究的工作的对比reviewerC**
-C认为和隐私政策研究有很多相似之处，需要阐明这项研究如何为 Web3 审计文献做出独特贡献。
-解决这些相似之处还有助于得出与 Web3 审计实践相关的更多独特见解和建议。
+**Comparison with Privacy Policy Research(reviewerC)**
 
-**解决方案复杂性的反驳reviewB**
-并不难以实施，例如问题代码在源代码中的联动展示；我们提供建议更多的可以比较指标等，都是已经有人在做可以优化的事情。
+We acknowledge the insights of privacy policy research in conveying information to users and understand its similarities with Web3 auditing, particularly in terms of how complex terminology impacts user comprehension. Measures from privacy policy research, such as simplifying language, using icons, and summaries, indeed provide valuable insights for improving information delivery in Web3 audits.
 
-**补充知道审计成本的受访者细节(reviewerD)**
-剩下的10%的受访者知道成本是因为周围的朋友开发过application并申请过审计服务因此知道的。价格区间很大，几千到几万美元的都有。
-我们会补充在文档里。
+However, there are significant differences between the two in terms of information delivery, user initiative, disclosure methods, authority, and educational roles. These differences lead to varying focus points in studying user perceptions and necessitate different design recommendations. We have provided a detailed comparison in our [online document](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/Discussion%3A%20Comparison%20with%20Privacy%20Policy%20Research.md). 
+
+**Explanation for 10% of Interviewee Knowing Price Information (ReviewerD)**:
+The 10% of interviewees in our study, which amounts to 2 individuals, learned about price information from friends who had received audit services. The price ranges they mentioned varied significantly, from several thousand to tens of thousands of dollars. We will update this information in the paper to enhance clarity for readers.
+
+Your suggestions are valuable, and we are willing to update this comparison in the revised discussion.
+
+
+
