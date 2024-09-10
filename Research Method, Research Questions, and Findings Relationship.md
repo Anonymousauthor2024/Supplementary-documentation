@@ -8,7 +8,10 @@ We have revised the methods section to clearly explain how our approach addresse
 
 The following figure demonstrates the relationship between different research methods and how they address the research questions (RQs):
 
-![Research Method and Research Question Relationship](https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/flow.jpg)
+<div style="text-align: center;">
+  <img src="https://github.com/Anonymousauthor2024/Supplementary-documentation/blob/main/figure/flow.jpg" alt="Research Method and Research Question Relationship" width="600"/>
+</div>
+
 
 - **Case Study**: Provides a framework for understanding Web3 auditing and serves as an empirical foundation for analyzing **RQ1** and **RQ2**.
 - **Interview Study**: Offers qualitative insights across **all RQs**.
