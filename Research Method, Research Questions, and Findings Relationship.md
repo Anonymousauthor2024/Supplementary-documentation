@@ -24,7 +24,24 @@ The **interview method** is the main driver for findings across all RQs. **Case 
 
 - **Interview Method**:    **Primary source** for most findings, covering **all RQs**.
   
-- **Case Study**:   Offers **objective support** for **RQ1** and **RQ2** by reviewing audit firms’ homepage disclosures.
+- **Case Study**:  
+  Specifically, our **case study** yielded two key results:
+
+  - **Framework for Understanding Web3 Auditing**  
+    - This established a **comprehensive framework** for understanding the **interaction of auditing** in the Web3 ecosystem
+    - Crucial in supporting the subsequent interviews design.
+
+  - **Empirical Findings from Audit Firm Homepage Review**  
+    This provided **empirical validation** for the interview findings. The results from this review contributed to the following key insights:
+
+    - **Findings Related to RQ1**:
+      - Highlighted the **insufficiency in the comprehensiveness** of information types disclosed, as noted in Section IV-B.
+
+    - **Findings Related to RQ2**:
+      - Identified the **lack of detailed disclosure**, such as missing price information (Section V-B3)
+      - Identified the **provision of additional security education materials** (Section V-A3).
+
+
   
 - **Reddit Analysis**: 
   - **Qualitative cross-validation** of interview findings on audit perceptions.
