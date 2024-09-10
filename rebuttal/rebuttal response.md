@@ -31,15 +31,13 @@ The process of how we develop prompts and what prompts we use are provided.
 
 关于情感分析的GPT-4验证的ground truth建立我们也update details. [Sentiment](https://github.com/Anonymousauthor2024/Supplementary-documentation/tree/main)
 
-**Finding 一致性表达(Reviewer775A)**
-已经修改成为一致性用绝对数值报告所有意见的访谈者数量。
+**Finding 一致性表达(Reviewer775A)** 已经修改成为一致性用绝对数值报告所有意见的访谈者数量。
 
 
-**design implication improvement for Web2(Reviewer775A&C)**
-认为web2的建议没有价值，考虑到web2的环境是中心化的，用户信心是充足的
-A认为应该删除，
+**design implication improvement for Web2(Reviewer775A&C)** 认为web2的建议没有价值，考虑到web2的环境是中心化的，用户信心是充足的
+- A认为应该删除，
 
-C认为不考虑 Web2 和 Web3 环境之间的实际和背景差异去公开审计报告过于乐观，Web2 中的审计公司通常在保密协议下运营，以防止公开披露详细的客户信息
+- C认为不考虑 Web2 和 Web3 环境之间的实际和背景差异去公开审计报告过于乐观，Web2 中的审计公司通常在保密协议下运营，以防止公开披露详细的客户信息
 
 
 **Explanation for Demographic(Reviewer775B&D)**
