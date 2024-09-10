@@ -12,7 +12,7 @@ The process of developing prompts for GPT-4 classification followed these steps:
 
 1. **Sampling and Labeling**: We randomly sampled 100 posts, which were independently labeled by two researchers. The labeling was done in groups of 10 posts.
    
-2. **Comparison and Consensus**: After each group was labeled independently, the results were compared. In cases of inconsistent classifications, the researchers discussed the discrepancies until they reached a consensus, then proceeded to the next group. After 10 rounds of discussion, a consistent classification standard was established.
+2. **Comparison and Consensus**: After each group was labeled independently, the results were compared. In cases of inconsistent classifications, the researchers discussed the discrepancies until they reached a consensus, then proceeded to the next group. After 10 rounds of discussion, a consistent classification standard was established. We calculated inter-rater reliability using Cohen's Kappa, which achieved a value over 0.8, indicating substantial agreement. 
    
 3. **Prompt Creation**: Once the classification standard was established, the researchers translated it into a prompt. The labeled sample dataset was used as a test set, and GPT-4 was employed for the classification tasks. The researchers adjusted the prompt as needed to align with the classification standard while optimizing GPT-4's performance. The final prompt was determined once GPT-4 achieved an accuracy rate of 80%.
 
