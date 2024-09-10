@@ -22,11 +22,11 @@ The following figure demonstrates the relationship between different research me
 ### **Research Method, Findings, and RQs Relationship**
 
 The table below summarizes the relationship between research methods, findings, and RQs. A check mark indicates which method contributed to a specific finding.
-
 The **interview method** is the main driver for findings across all RQs. **Case study** and **Reddit analysis** provide **empirical verification** and broader insights, enhancing the robustness of the results.
 
 - **Interview Method**:    **Primary source** for most findings, covering **all RQs**.
-  
+
+ 
 - **Case Study**:  
   Specifically, our **case study** yielded two key results:
 
@@ -44,11 +44,17 @@ The **interview method** is the main driver for findings across all RQs. **Case 
       - Identified the **lack of detailed disclosure**, such as missing price information (Section V-B3)
       - Identified the **provision of additional security education materials** (Section V-A3).
 
+**Reddit** is the main source for **online community analysis**, supplementing and cross-validating the interview findings. Two types of analyses were conducted:
 
-  
-- **Reddit Analysis**: 
-  - **Qualitative cross-validation** of interview findings on audit perceptions.
-  - **Quantitative Supplements**  findings, supplements findings, particularly by evaluating user attitudes through sentiment analysis. This includes assessing both direct discussions on auditing and indirect sentiment expressed through reactions to audit results within applications.
+1. **Qualitative Analysis**:
+   - Based on **thematic categorization**, which cross-validates the interview findings.
+
+2. **Quantitative Analysis**:
+   - Focused on **sentiment analysis**, adjusted to capture the online community's attitudes.
+   - These results are used in two ways:
+     - To analyze discussions **directly** addressing the role of auditing, as presented in Section V-B.
+     - To **indirectly** assess the **impact of auditing** by analyzing the community's attitudes towards different types of audit results for applications, as presented in Section VI-A2.
+
 
 
 
