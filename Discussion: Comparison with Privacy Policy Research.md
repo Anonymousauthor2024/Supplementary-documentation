@@ -1,33 +1,35 @@
-We recognize the importance of privacy policy research in conveying information to users and acknowledge the similarities with Web3 auditing, particularly regarding the impact of complex terminology on user comprehension. Measures from privacy policy studies, such as simplifying language, using icons and summaries, and enhancing transparency and standardization, can indeed inform Web3 audit practices.
+We recognize the importance of privacy policy research in conveying information to users and acknowledge the similarities with Web3 auditing, particularly in terms of how complex terminology impacts user comprehension. However, due to the fundamental differences in the ecosystems where these two operate, our findings on Web3 auditing can provide novel insights for the secure development of the Web3 ecosystem. 
+Therefore, in this section, we first compare the key differences between privacy policies and Web3 auditing that lead to distinct user perceptions and design implications. We then explore the similarities, highlighting how Web3 auditing can benefit from insights gained in privacy policy research.
 
-However, the applicability of these design insights does not imply that the issues addressed are identical. There are key differences between privacy policies and Web3 auditing that lead to distinct user perceptions and design implications:
+## Differences Between Privacy Policies and Web3 Auditing
 
-1. **Differences in Information Delivery**  
-   - **Privacy Policies**: These are mandatory agreements that users must accept before using most applications, often without needing to actively retrieve or engage with them.  
-   - **Web3 Audits**: Audit results are supplementary security information that users do not typically encounter directly within the application interface. Our research (Section IV-A) shows that users generally reported being able to access audit information. Since users already find this information accessible, there were no additional design recommendations for improving delivery.
+While privacy policy research offers valuable insights, there are significant differences between privacy policies and Web3 auditing. These differences highlight the unique challenges and considerations specific to Web3 auditing, underscoring the need for tailored research in this area.
 
-   **Design Implication**:  Web3 audits need to focus on the accessibility which privacy policies research do not focus.
+### Differences in Information Delivery
+Privacy policies are mandatory agreements that users must accept before using most applications, often without needing to actively retrieve them [13]. In contrast, Web3 audit results are supplementary security information that users do not directly encounter in the application interface. Therefore, for Web3 auditing, it is important to consider whether audit information is easily accessible to users (Section IV). However, as we found that users generally reported easy access to audit information, no additional design recommendations were made in this regard.
 
-2. **Differences in User Initiative**  
-   - **Privacy Policies**: Typically government-regulated, with users being passive recipients. The "privacy paradox" highlights how users value privacy but rarely engage with the policy details.  
-   - **Web3 Audits**: These are voluntary measures provided by applications to build trust. Users must actively seek out audit information and gather relevant details to evaluate credibility. Our findings (Section IV) show that users are more concerned with the depth, richness, and trustworthiness of the information, creating distinct transparency requirements.
+### Differences in User Decision-Making
+Privacy policy research focuses on users granting permission for applications to access their personal data [15], with prior studies highlighting how privacy policies influence users’ data management behavior. These studies also reveal the existence of the “privacy paradox,” where users value privacy but rarely read policies or seek more information [53]. Web3 audits, however, primarily affect users’ evaluations of whether to engage with Web3 applications. As such, the focus here is on how audit information influences users’ decision-making (Section VI). These two areas differ significantly in how they impact users, leading to distinct design implications for information transparency. While privacy policy research emphasizes transparency in data collection [2], Web3 auditing focuses on the transparency of the auditing process.
 
-   **Design Implication**: Privacy policies aim to simplify complex terms for passive users, while Web3 audits require providing detailed, transparent information to meet the needs of active, engaged users.
+### Differences in Application Information Disclosure Motivation
+Privacy policy disclosure is legally required, meaning applications are often passive in providing this information and may obfuscate unethical data handling practices [73]. In contrast, Web3 audits are voluntary security verification measures aimed at building trust through third-party certification, with additional costs paid to external security firms. Therefore, when proposing design implications, privacy studies focus on preventing users from overlooking potential privacy violations, using solutions like optimizing informed consent methods [21], [72]. In contrast, Web3 auditing research emphasizes whether users recognize the security practices of applications (Section V) and how to design audit information to enhance user trust.
 
-3. **Differences in Application Information Disclosure**  
-   - **Privacy Policies**: Disclosure is legally required, even if users don’t engage with it. Privacy policy research focuses on preventing users from overlooking potential infringements on their rights, often through "progressive disclosure."  
-   - **Web3 Audits**: These are voluntary security verification measures designed to enhance trust via third-party certification. Unlike privacy policies, Web3 audits focus on user perceptions of audit effectiveness (Section V) and how this information influences behavior (Section VI).
+### Differences in Educational Role
+Security awareness related to privacy in Web2 is often enforced by government regulations and integrated into school curricula, ensuring users receive basic knowledge through mandatory mechanisms [83]. In the decentralized Web3 ecosystem, there is no centralized authority responsible for security education. Therefore, design implications for security awareness target different entities. While privacy policy research focuses on professional groups like students or employees with similar knowledge backgrounds and skill levels [84], Web3 auditing targets end users in a more complex environment. Our research found that Web3 audit firms and decentralized organizations play a crucial role in educating users about security (Section V-A3), offering valuable insights into general security education, as covered in our design implications (Section VII-C1).
 
-   **Design Implication**: Privacy policies focus on ensuring users don’t overlook important rights, while Web3 audits focus on creating trust through transparent verification. This requires different approaches to disclosure and engagement.
+## Similarities between Privacy Policy Research and Web3 Auditing Research
 
-4. **Differences in Authority**  
-   - **Privacy Policies**: Developed under official regulations and managed by legal teams. Users typically accept these policies regardless of their perception of authority.  
-   - **Web3 Audits**: Conducted by independent external firms with no uniform standards. User trust in the external auditors directly influences the acceptance of audit results. This trust is a critical factor that doesn’t apply to privacy policies. Our study (Section V-A) explores how users perceive audit firms and proposes design implications.
+Though privacy policy research and Web3 auditing address different domains, they share several user challenges that Web3 auditing can learn from. These similarities provide opportunities for Web3 auditing to adopt proven strategies from privacy policy studies to improve user comprehension and trust.
 
-   **Design Implication**: Privacy policies rely on legal enforcement, whereas Web3 audits depend on user trust in external auditors, requiring efforts to establish credibility and transparency in audits firms.
+### Similarities in User Challenges with Technical Complexity
+Both privacy policies and Web3 audit reports contain technical language that can overwhelm users, making it difficult to fully understand the content [13]. Research in privacy policy studies shows that simplifying language or using visual aids, such as icons, can improve user comprehension [38]. Similarly, Web3 auditing could benefit from adopting these strategies by presenting audit results in a more accessible format.
 
-5. **Differences in Educational Role**  
-   - **Privacy Policies**: Privacy education is often enforced by government laws, providing users with basic privacy knowledge through mandatory mechanisms.  
-   - **Web3 Audits**: In the decentralized Web3 ecosystem, there is no central authority providing privacy education. Instead, Web3 audit firms and decentralized organizations play a key role in educating users about security. This is covered in our design implications.
+In fact, some of these practices have already been adopted by Web3 auditing, such as using absolute security scores. However, this introduces a new challenge, as we found that users struggle to understand the relationship between the score and actual security (Section IV-C).
 
-   **Design Implication**: Privacy policies rely on centralized education, while Web3 audits require decentralized approaches to educate users on security.
+### Similarities in Lack of Standardization and Consistency
+Both privacy policies and Web3 audits face challenges due to the lack of standardization in how information is presented. In the case of privacy policies, this lack of consistency across platforms makes it difficult for users to compare and understand the privacy practices of different services [21]. This is similarly reflected in Web3 auditing, where audit reports can vary significantly depending on the auditing firm, making it hard for users to consistently evaluate security practices across different decentralized applications (Section IV). Drawing from privacy policy research, Web3 auditing practices could benefit from developing standardized formats and criteria (Section VII-C2), helping users better navigate and compare audit results across various platforms.
+
+### Similarities in User Skepticism Towards Effectiveness
+User skepticism about the effectiveness of privacy policies has been well-documented, with users often feeling that privacy policies provide little real protection and serve more as a formality [45]. Similarly, Web3 users may question the value of audit reports, often due to distrust in audit firms and a lack of understanding of the audit information (Section V).
+
+To address this skepticism, privacy research has recommended greater transparency and user-centered communication to improve trust [45]. Web3 auditing could adopt similar approaches by making audit processes more transparent and involving users in the auditing ecosystem, such as providing clear and detailed explanations of how audits are conducted and the security guarantees they offer (Section VII-C2).
