@@ -34,6 +34,16 @@ User scepticism about the effectiveness of privacy policies has been well-docume
 
 To address this scepticism, privacy research has recommended greater transparency and user-centred communication to improve trust [10]. Web3 auditing could adopt similar approaches by making audit processes more transparent and involving users in the auditing ecosystem, such as providing clear and detailed explanations of how audits are conducted and the security guarantees they offer (Section VII-C2).
 
+
+## Conclusion
+
+Through this comparison, it becomes clear that while privacy policy research provides valuable insights that can inform Web3 auditing practices, not all findings are directly transferable. Strategies such as simplifying language, standardizing information formats, and using layered disclosures to enhance transparency and user comprehension are highly applicable to Web3 auditing, given the similar user challenges related to information complexity.
+
+However, the unique characteristics of Web3 auditing, arising from the blockchain technology, require additional design considerations that may not apply to privacy policy research. For example, although Web3 auditing has adopted readability enhancements similar to those in privacy policy research, our study reveals that these efforts alone are insufficient for Web3 users. The trustless nature of decentralized systems demands not only greater transparency but also clarity in how audit information is generated, verified, and validated (Section VII-B3). This highlights the need for advanced mechanisms that go beyond readability, such as real-time verification tools, which we propose as part of our recommendations (Section VII-C2).
+
+Therefore, our research focuses on users’ perceptions of security information disclosure practices in decentralized environments and proposes design recommendations to address the unique needs and challenges users face in such ecosystems—areas not covered by privacy policy research—contributing to the secure development of decentralized systems.
+
+
 ---
 
 ## References
