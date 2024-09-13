@@ -31,7 +31,7 @@ The table below summarizes the relationship between research methods, findings, 
 The **interview method** is the main driver for findings across all RQs. **Case study** and **Reddit analysis** provide **empirical verification** and broader insights, enhancing the robustness of the results.
 
 - **Interview Method**:    **Primary source** for most findings. This method captured users' subjective perceptions through open-ended questions and flexible conversation formats, addressing all RQs.
-- **Case Study**:  
+- **Case Study**:  This method allows us to summarize the types, content, and quality of the auditing information users received.
   Specifically, our **case study** yielded two key results:
 
   - **Framework for Understanding Web3 Auditing**  
