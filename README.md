@@ -32,8 +32,6 @@ This repository contains documents, data, and analysis related to the Web3 audit
 - **File 2:** `03 Reddit Study: Information about Selected Subreddits.csv`
   - A CSV file listing the subreddits selected for analysis in the study.
   
-- **File 3:** `03 Reddit Study: Statistical Analysis Results.md`
-  - Provides the results of the statistical analysis conducted on the data gathered from Reddit.
 
 ### 04. **Discussion**
 - **File:** `04 Discussion: Comparison with Privacy Policy Research.md`
